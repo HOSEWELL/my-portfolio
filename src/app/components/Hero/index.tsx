@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { FaLinkedinIn, FaGithub, FaTwitter, FaEnvelope } from "react-icons/fa";
+import { FaLinkedinIn, FaGithub, FaEnvelope } from "react-icons/fa";
 import Image from "next/image";
 
 const jobTitles = [
