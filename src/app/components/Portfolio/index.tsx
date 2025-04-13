@@ -15,11 +15,11 @@ const Projects = () => {
       image: "/images/landingecothreads.png",
     },
     {
-      title: "News App",
+      title: "Tiberbu",
       description:
-        "A responsive news app built with react featuring a user-friendly interface for browsing news articles.",
-      link: "https://news-lyart-kappa.vercel.app/",
-      image: "/images/news.png",
+        "A responsive health app built with react featuring a user-friendly interface for browsing and patients can book doctors appointments online.",
+      link: "https://tiberbu.vercel.app/",
+      image: "/images/tiberbu.png",
     },
     {
       title: "Fitness Tracker",
