@@ -7,6 +7,7 @@ import Image from "next/image";
 const jobTitles = [
   "A Frontend Developer.",
   "A Backend Developer.",
+  "A Mobile Developer",
   "A Data Scientist.",
   "A Machine Learning Enthusiast.",
   "A DevOps Enthusiast.",
@@ -75,7 +76,7 @@ const Hero = () => {
       </div>
       {/* Image Section */}
       <div className="w-full md:w-6/12 flex justify-end mt-12 md:mt-0">
-        <div className="relative w-full md:w-[80%] aspect-square">
+        <div className="relative w-full md:w-[80%] aspect-square ">
           <Image
             src="/images/profile.jpeg"
             alt="Hosewell Karanja"

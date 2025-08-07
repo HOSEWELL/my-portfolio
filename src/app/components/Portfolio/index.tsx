@@ -22,11 +22,11 @@ const Projects = () => {
       image: "/images/tiberbu.png",
     },
     {
-      title: "Fitness Tracker",
+      title: "Safari Desk",
       description:
-        "A responsive fitness tracker app built with react featuring a user-friendly interface for tracking fitness activities.",
-      link: "https://fitness-app-smoky-five.vercel.app/",
-      image: "/images/fitness.png",
+        "A responsive Ticket Booking application built with nextjs featuring a user-friendly interface for booking safari tickets online.",
+      link: "https://safaridesk-beta.vercel.app/",
+      image: "/images/safari.png",
     },
     {
       title: "Hotel App",

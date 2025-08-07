@@ -27,6 +27,31 @@ const Skills = () => {
       progressValue: "95%",
     },
     {
+      category: "Backend Development",
+      icon: <FaServer size={40} className="text-purple-600" />,
+      topics: [
+        "Web Development with Django",
+        "Implementing RESTful APIs with Django Rest Framework",
+        "Database Management with PostgreSQL",
+        "JWT Authentication /Auth0 Authentication",
+      ],
+      progressLabel: "Proficient",
+      progressValue: "85%",
+    },
+    {
+      category: "Mobile Development",
+      icon: <FaLaptopCode size={40} className="text-pink-500" />,
+      topics: [
+        "Building cross-platform apps with Flutter",
+        "Using Dart programming language",
+        "State management (e.g., Provider, Riverpod)",
+        "UI design with Flutter widgets",
+        "Firebase integration",
+      ],
+      progressLabel: "Intermediate",
+      progressValue: "65%",
+    },
+    {
       category: "Product Management",
       icon: <FaLaptopCode size={40} className="text-green-500" />,
       topics: [
@@ -38,18 +63,6 @@ const Skills = () => {
       ],
       progressLabel: "Intermediate",
       progressValue: "60%",
-    },
-    {
-      category: "Backend Development",
-      icon: <FaServer size={40} className="text-purple-600" />,
-      topics: [
-        "Web Development with Django",
-        "Implementing RESTful APIs with Django Rest Framework",
-        "Database Management with PostgreSQL",
-        "JWT Authentication /Auth0 Authentication",
-      ],
-      progressLabel: "Proficient",
-      progressValue: "85%",
     },
     {
       category: "Cloud Infrastructure",

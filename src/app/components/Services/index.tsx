@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { FaLaptopCode, FaDatabase, FaCloud, FaProjectDiagram, FaPencilRuler, FaArrowRight } from "react-icons/fa";
+import { FaLaptopCode, FaDatabase, FaCloud, FaProjectDiagram, FaPencilRuler, FaArrowRight, FaMobileAlt } from "react-icons/fa";
 import { motion } from "framer-motion";
 
 const servicesData = [
@@ -17,6 +17,13 @@ const servicesData = [
     shortDescription: "Building robust and scalable backend systems to power your web and mobile apps.",
     details: "With Django and RESTful APIs, I create secure and efficient backend systems that handle your app's data and logic seamlessly.",
   },
+  {
+    title: "Mobile Development",
+    icon: <FaMobileAlt size={60} className="text-pink-500" />,
+    shortDescription: "Creating mobile applications using Flutter for Android and iOS platforms.",
+    details: "I develop cross-platform mobile apps using Flutter and Dart, ensuring a seamless and performant experience across Android and iOS. I implement state management, Firebase integration, and pixel-perfect UI designs tailored to user needs.",
+  },
+
   {
     title: "Cloud Infrastructure",
     icon: <FaCloud size={60} className="text-blue-500" />,
