@@ -48,8 +48,8 @@ const Skills = () => {
         "UI design with Flutter widgets",
         "Firebase integration",
       ],
-      progressLabel: "Intermediate",
-      progressValue: "65%",
+      progressLabel: "Proficient",
+      progressValue: "80%",
     },
     {
       category: "Product Management",
@@ -61,8 +61,8 @@ const Skills = () => {
         "Prioritization Frameworks (e.g. MoSCoW)",
         "Roadmap Planning and Execution",
       ],
-      progressLabel: "Intermediate",
-      progressValue: "60%",
+      progressLabel: "Proficient",
+      progressValue: "90%",
     },
     {
       category: "Cloud Infrastructure",

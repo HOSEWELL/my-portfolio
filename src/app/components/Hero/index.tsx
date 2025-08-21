@@ -36,7 +36,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="text-gray-300 text-xl md:text-xl lg:text-2xl">
-          I design and develop innovative web applications that harmonize powerful functionality with captivating aesthetics, delivering experiences that exceed expectations and set new standards.          </p>
+          I design and develop innovative web and Mobile applications that harmonize powerful functionality with captivating aesthetics, delivering experiences that exceed expectations and set new standards.          </p>
         </div>
 
         <div className="flex space-x-6 mt-6 justify-center md:justify-start">
