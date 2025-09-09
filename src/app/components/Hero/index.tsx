@@ -8,7 +8,7 @@ const jobTitles = [
   "A Frontend Developer.",
   "A Backend Developer.",
   "A Mobile Developer",
-  "A Data Scientist.",
+  "A Data Scientist Enthusiast.",
   "A Machine Learning Enthusiast.",
   "A DevOps Enthusiast.",
   "A Product Manager.",
