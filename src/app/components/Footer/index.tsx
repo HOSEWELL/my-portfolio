@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <>
       {/* Footer Section */}
-      <footer className="bg-gray-900 text-white py-10">
+      <footer id="contact" className="bg-gray-900 text-white py-10">
         <div className="container mx-auto text-center">
           {/* Social Media Icons */}
           <div className="flex justify-center space-x-6 mb-6">
