@@ -38,7 +38,7 @@ const Footer = () => {
           <p className="text-lg text-gray-300 mb-4">hosewellkaranja@gmail.com</p>
           {/* Footer Text */}
           <p className="text-gray-500 text-sm">
-            &copy; {new Date().getFullYear()} Personal Portfolio. All rights reserved.
+            &copy; {new Date().getFullYear()}hosewellkaranja Personal Portfolio. All rights reserved.
           </p>
         </div>
       </footer>
